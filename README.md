@@ -16,3 +16,12 @@
 ## Bahan Pengajaran Workshop
 
 ## Bahan Pengajaran Trainer
+
+## Bahan Pengajaran Kursus
+<ul>
+  <li>Prediksi BMI dengan ESP32</li>
+  <ul>
+    <li>Github: <a href="https://github.com/koalaw4n/BMI-Prediction-with-ESP32">Link</a></li>
+    <li>Youtube: <a href="">Link</a></li>
+  </ul>
+</ul>
