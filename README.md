@@ -1,6 +1,6 @@
 # Pengalaman Mengajar
 
-## Bahan Pengajaran
+## Bahan Pengajaran Kampus
 <ul>
   <li>Semester 1</li>
   <ul>
@@ -12,3 +12,7 @@
     <li><a href="">Mata Kuliah Algoritma & Pemograman 2</a></li>
   </ul>
 </ul>
+
+## Bahan Pengajaran Workshop
+
+## Bahan Pengajaran Trainer
