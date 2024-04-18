@@ -11,6 +11,11 @@
   <ul>
     <li><a href="">Mata Kuliah Algoritma & Pemograman 2</a></li>
   </ul>
+  <li>Semester 6</li>
+  <ul>
+    <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Web-Programming-2-Course-Bank">Mata Kuliah Pemograman Web 2</a></li>
+    <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Web-Programming-2-Course-Bank">Mata Kuliah Mikrokontroller</a></li>
+  </ul>
 </ul>
 
 ## Bahan Pengajaran Workshop
